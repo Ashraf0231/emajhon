@@ -1,0 +1,29 @@
+.searchContainer{
+    background-color: black;
+    padding-bottom: 5px;
+}
+
+.searchContainer-input{
+    width:75%;
+    
+}
+.shop-Container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin-left: 50px;
+    margin-right: 25px;
+}
+
+.product-layout{
+    border-right: 1px solid lightgray;
+    margin-right: 10px;
+    margin-left: 30px;
+    border-bottom: 1px solid lightgray; 
+}
+
+.cart-layout{
+
+
+
+   
+}
